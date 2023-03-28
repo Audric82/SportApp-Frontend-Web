@@ -1,0 +1,24 @@
+.login-form {
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.form-group {
+    margin-top: 5%;
+}
+
+.sumbit-group {
+    width: 100%;
+}
+
+.submit-group, button {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.btn-login {
+    background-color: rgba(34, 34, 34, 1);
+    color: white;
+}
